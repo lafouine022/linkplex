@@ -1,6 +1,6 @@
 <?php
 
-$user = getUser();
+//$user = getUser();
 $host = $_SERVER['HTTP_HOST'];
 
 require_once('conf.php');
